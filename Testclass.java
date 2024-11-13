@@ -5,5 +5,4 @@ public class Testclass{
         System.out.println("Hello zusammen");
         System.out.println("ganz schön schwer mit git - aber das wird schon !!");
     }
-
 }
