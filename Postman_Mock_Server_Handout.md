@@ -54,7 +54,7 @@ Ihr arbeitet im Team an einer **Studentenverwaltung** für die Hochschule Neu-Ul
 
 #### Example 1 hinzufügen: "Erfolgreiche Antwort"
 1. Klicke auf **"Save Response"** → **"Save as example"**
-2. **Example Name**: "Erfolgreiche Antwort - 2 Studenten"
+2. **Example Name**: "Erfolgreiche Antwort - 3 Studenten"
 3. **Status Code**: 200 OK
 4. **Response Body** (JSON):
 
