@@ -4,5 +4,6 @@ public class Testclass{
     public static void main (String[] args){
         System.out.println("Hello zusammen");
         System.out.println("ganz schön schwer mit git - aber das wird schon irgendwie gut!!");
+        System.out.println("Weiterer TExt, ist jetzt ok, weil es keine Konflikte gibt");
     }
 }
